@@ -8,10 +8,10 @@ http://ssz.p2a.top/ssiptv/get/8822495/9405953/list_movies/22/
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes: Ação
 #EXTBG: #11609e
 http://ssz.p2a.top/ssiptv/get/8822495/9405953/list_movies/438/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes: Aventura
+#EXTINF:0 type="playlist" tvg-logo="https://www.filmezando.co/wp-content/themes/MegaFilmesHD%20-%20STHD/img/sd/aventura.jpeg",Filmes: Aventura
 #EXTBG: #11609e
 http://ssz.p2a.top/ssiptv/get/8822495/9405953/list_movies/459/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes: Ficção e Fantasia
+#EXTINF:0 type="playlist" tvg-logo="https://www.filmezando.co/wp-content/themes/MegaFilmesHD%20-%20STHD/img/sd/ficcao.jpg",Filmes: Ficção e Fantasia
 #EXTBG: #11609e
 http://ssz.p2a.top/ssiptv/get/8822495/9405953/list_movies/439/
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes: Drama
@@ -29,7 +29,7 @@ http://ssz.p2a.top/ssiptv/get/8822495/9405953/list_movies/39/
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes: Crime
 #EXTBG: #11609e
 http://ssz.p2a.top/ssiptv/get/8822495/9405953/list_movies/31/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes: Guerra
+#EXTINF:0 type="playlist" tvg-logo="https://www.filmezando.co/wp-content/themes/MegaFilmesHD%20-%20STHD/img/sd/guerra.jpg",Filmes: Guerra
 #EXTBG: #11609e
 http://ssz.p2a.top/ssiptv/get/8822495/9405953/list_movies/434/
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes: Policial
@@ -59,7 +59,7 @@ http://ssz.p2a.top/ssiptv/get/8822495/9405953/list_movies/46/
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes: Animes
 #EXTBG: #11609e
 http://ssz.p2a.top/ssiptv/get/8822495/9405953/list_movies/441/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes: Romance
+#EXTINF:0 type="playlist" tvg-logo="https://www.filmezando.co/wp-content/themes/MegaFilmesHD%20-%20STHD/img/sd/romance.jpg",Filmes: Romance
 #EXTBG: #11609e
 http://ssz.p2a.top/ssiptv/get/8822495/9405953/list_movies/36/
 #EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",Filmes: Biografia
